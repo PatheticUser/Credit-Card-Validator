@@ -42,8 +42,6 @@ This simple yet powerful algorithm ensures that credit card numbers are mathemat
 ## 📈 Example Output
 
 ```bash
-This program uses Luhn's Algorithm to validate a credit card number.
-You can enter 'exit' anytime to quit.
 Please enter a credit card number to validate: 1234567812345670
 Invalid credit card number!
 
