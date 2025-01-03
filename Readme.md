@@ -49,3 +49,7 @@ Please enter a credit card number to validate: 4532015112830366
 Valid credit card number!
 ```
 
+---
+
+### **If you find this project helpful, consider giving it a star!** ⭐
+
